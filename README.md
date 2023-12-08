@@ -1,0 +1,1 @@
+# Parametri_Konstruktora
